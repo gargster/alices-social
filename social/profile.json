@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:50fcefe2b0c66b12fc627f132eb391fe2de68e508fc7b67714ad82af77fc3952",
   "handle": "alice.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/alices-social.git",
   "displayName": "Alice",
   "bio": "Software Engineering student at USYD",
   "created": "2026-10-14T03:13:13.732344Z",
-  "signature": "ETBYq7upQEGWDiDpF53xM3kpVJoCqbc5wJtIy7FblDLd+qQ8WZq4wuDw0EYKvMtNHCCrFADR+ut6w9DCWb4MBQ=="
+  "signature": "jp6rHb8pgkmZzsNc96Ing2cgMjjvhfXK7TBqgwDH8cGWIjws3f2KU1e9zpzRdu0jW3rcPxZ5rh1wJGUJpYwECg=="
 }

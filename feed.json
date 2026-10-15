@@ -1,0 +1,29 @@
+{
+  "profile": {
+    "publicKey": "ed25519:50fcefe2b0c66b12fc627f132eb391fe2de68e508fc7b67714ad82af77fc3952",
+    "handle": "alice.social",
+    "repoURL": "https://github.com/gargster/alices-social.git",
+    "displayName": "Alice",
+    "bio": "Software Engineering student at USYD",
+    "created": "2026-10-14T03:13:13.732344Z",
+    "signature": "jp6rHb8pgkmZzsNc96Ing2cgMjjvhfXK7TBqgwDH8cGWIjws3f2KU1e9zpzRdu0jW3rcPxZ5rh1wJGUJpYwECg=="
+  },
+  "profiles": {
+    "ed25519:50fcefe2b0c66b12fc627f132eb391fe2de68e508fc7b67714ad82af77fc3952": "Alice",
+    "ed25519:c228e14ec05bb967c8664776e46f9a22c738e924bfe5211974e7bc9f078103ba": "Canonical",
+    "ed25519:189c39f67de223e961d8fd9c075d2945b3062ab7480f33386956cd81c32ace37": "TestPerson1",
+    "ed25519:57873577004887bfa9a0b8f51b301cb6416c04808f111bae13e0e48fec11fee3": "TestPerson2",
+    "ed25519:d58c64edefc76f350720d80a9db27794cd3520b90b2aed90cdb6fa1111efa838": "TestPerson3",
+    "ed25519:5f0bb802174a3026f6f5c566a6dbcdc600654c96f762876b4ac0f260399f5e76": "TestPerson4"
+  },
+  "actions": [
+    {
+      "id": "post-alice.social-001",
+      "type": "post",
+      "author": "ed25519:50fcefe2b0c66b12fc627f132eb391fe2de68e508fc7b67714ad82af77fc3952",
+      "created": "2026-10-15T00:01:27.681877Z",
+      "content": "Hi, my name is Alice and I am in my fourth year of Software Engineering",
+      "signature": "klwxYWYGJpGClyJ/b6Yy4iLDEK9y9IXnPbiBGyuonxvEZOS3FrOCH9nrllwFW+voTnLqtcFk5VhhcTCdenLeDw=="
+    }
+  ]
+}

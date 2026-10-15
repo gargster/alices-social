@@ -15,7 +15,8 @@
     "ed25519:57873577004887bfa9a0b8f51b301cb6416c04808f111bae13e0e48fec11fee3": "TestPerson2",
     "ed25519:d58c64edefc76f350720d80a9db27794cd3520b90b2aed90cdb6fa1111efa838": "TestPerson3",
     "ed25519:5f0bb802174a3026f6f5c566a6dbcdc600654c96f762876b4ac0f260399f5e76": "TestPerson4",
-    "ed25519:5e7327ca95099247915583fbbb4e4bcc187089adc830d7fc5d132cff3b417a04": "Bob"
+    "ed25519:5e7327ca95099247915583fbbb4e4bcc187089adc830d7fc5d132cff3b417a04": "Bob",
+    "ed25519:10545b4c9d9e27e255ef570b3cafabc3d1ae39ece5dd72d8f75e44cc1dff453f": "Charlie"
   },
   "actions": [
     {
@@ -25,6 +26,14 @@
       "created": "2026-10-15T02:26:46.961075Z",
       "target": "ed25519:5e7327ca95099247915583fbbb4e4bcc187089adc830d7fc5d132cff3b417a04",
       "signature": "N8QXrr+KlB3EUtYr8PQCwqve8vwpkhncMwoYuqneYKirn1JLXw4OeoyvhuNKJbwlY3M9uWiysLVH+dxYEE2gBw=="
+    },
+    {
+      "id": "follow-bob.social-002",
+      "type": "follow",
+      "author": "ed25519:5e7327ca95099247915583fbbb4e4bcc187089adc830d7fc5d132cff3b417a04",
+      "created": "2026-10-15T04:46:09.343579Z",
+      "target": "ed25519:10545b4c9d9e27e255ef570b3cafabc3d1ae39ece5dd72d8f75e44cc1dff453f",
+      "signature": "0ySOpL17Qjh3wF/jsmPh0n8SphV+zvwMmgvdJePkyia/oXktMrqcQ5DuH/sfrNkUWXztZPKNunNMKQXIRHdtBA=="
     },
     {
       "id": "like-alice.social-003",
@@ -50,6 +59,14 @@
       "created": "2026-10-15T02:03:31.596152Z",
       "content": "Hi, my name is Bob and I study at The University of Sydney",
       "signature": "t91D8VMJYQe18EoapmZ6a75MzpRaEpZdi5xsUbXdxFb24bkvZAdMbjqGadZeH9EJ6HHsamKhZksxotZAp1jZCA=="
+    },
+    {
+      "id": "post-charlie.social-001",
+      "type": "post",
+      "author": "ed25519:10545b4c9d9e27e255ef570b3cafabc3d1ae39ece5dd72d8f75e44cc1dff453f",
+      "created": "2026-10-15T03:52:49.510721Z",
+      "content": "Hi, my name is Charlie I am studying Civil Engineering at UNSW",
+      "signature": "sPa9x8WAB++etFTPukxSIQEOjVOvQbhf9IVa4mDvMcjKKIFFRS9AQoOCkX2+cEdcolOAYN45Wp58fhzkTST+BA=="
     },
     {
       "id": "reply-alice.social-004",

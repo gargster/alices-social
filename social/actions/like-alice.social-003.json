@@ -1,0 +1,9 @@
+{
+  "id": "like-alice.social-003",
+  "type": "like",
+  "author": "ed25519:50fcefe2b0c66b12fc627f132eb391fe2de68e508fc7b67714ad82af77fc3952",
+  "created": "2026-10-15T02:50:54.326661Z",
+  "target": "post-bob.social-001",
+  "targetHandle": "bob.social",
+  "signature": "db3YtLZMwKBNO70b+KTISqV34vZ7E7vjIwqfEwqVnhkNNO7gfSn5mPwUAjoz48Qwz75neQZls8fuifzZxR1GCg=="
+}

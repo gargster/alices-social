@@ -1,0 +1,10 @@
+{
+  "id": "reply-alice.social-004",
+  "type": "reply",
+  "author": "ed25519:50fcefe2b0c66b12fc627f132eb391fe2de68e508fc7b67714ad82af77fc3952",
+  "created": "2026-10-15T02:57:25.158114Z",
+  "content": "Hi Bob Nice to meet you,  I study USYD as well!",
+  "inReplyTo": "post-bob.social-001",
+  "targetHandle": "bob.social",
+  "signature": "K+rdqQCaa9w/HdSoit70AbBY4EZMA361tKD7FDRehPbgX1RQkoKgQd7TvSu1XkqL0UOjaowZipBaTV/cEDL+Bw=="
+}
